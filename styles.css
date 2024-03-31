@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    background-color: #8C2A7A;
+    font-family: "Emilys Candy", serif;
+    color: #ffffff;
+    display: block;
+    margin: 30px auto;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+    display: block;
+    border: 20px solid #ffffff;
+    margin-bottom: 20px;
+    box-shadow: 10px 10px 10px black;
+  }
+  
+  #img-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;  
+  }
+  
+  #list {
+    font-size: 0.9rem;
+  }
+  
+  li {
+    margin: 2rem 2rem;
+  }
+  
+  a {
+    color: #F0C1DA;
+  }
